@@ -8,11 +8,11 @@ android {
 
     defaultConfig {
         // 将此设置为你想要替换的图标包的包名
-        applicationId 'sidia.OT_2021_ValentineFondue.appiconpack'
+        applicationId 'Sidia.OT_2021_ValentineChocolate.appiconpack'
         minSdk 30
         targetSdk 32
-        versionCode 1000
-        versionName "1000"
+        versionCode 1057
+        versionName "1057"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
